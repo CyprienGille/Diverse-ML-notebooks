@@ -25,4 +25,11 @@ This notebook showcases **image manipulation, enhancement, and filtering** techn
 This notebook uses a **support vector machine to perform pixel-wise binary classification** on an image. We use both intensity and texture information. This notebook uses skimage, and scikit-learn as its ML framework. The images used by this notebook are provided in the *Images_Segm_SVM* folder.
 
 ---
+Altough not included in this repo to not clutter it too much, the following repositories also containt ML projects:
+ - [Clustering Methods](https://github.com/CyprienGille/Basic-Clustering-Methods)
+ - [Neural Networks in R using tensorflow](https://github.com/CyprienGille/Chocolate-Bar-Rating-Using-NNs)
+ - [Text Generation using a Transformer](https://github.com/CyprienGille/Critical-Role-Text-Generation)
+ - [Reinforcement Learning for an arcade game](https://github.com/CyprienGille/Atari-Freeway-Reinforcement-Learning-Project-RAM-only)
+ - [Live Sign language letter recognition using a CNN](https://github.com/CyprienGille/CNN-Live-Sign-Language-Recognition)
+
 Note : Some of these notebooks are the products of uni labs or projects, and may thus have a few obscure headers (for example, when they reference exercise questions or subject codes).
