@@ -14,7 +14,7 @@ In this notebook, we implement an **autoencoder to perform image compression**. 
 
 ### `classification-on-plantnet.ipynb` ⭐
 
-This notebook comes from a Kaggle competition (using [this subset](https://gitlab.inria.fr/cgarcin/plantnet_dataset) of the [Plantnet dataset](https://plantnet.org/en/)). This notebook comprehensively goes through the whole process of building a **classifier on image data**, from custom datasets, samplers, models, etc. Model-wise, this notebook uses **CNNs, homemade residual networks, and a fine-tuned ResNet152**. This notebook is extensively commented, and documents all of the tested configurations and their scores during the competition. This notebook uses PyTorch as its ML framework.
+This notebook comes from a Kaggle competition (using [this subset](https://gitlab.inria.fr/cgarcin/plantnet_dataset) of the [Plantnet dataset](https://plantnet.org/en/)). This notebook comprehensively goes through the whole process of building a **classifier on image data**, from custom datasets, samplers, models, etc. Model-wise, this notebook uses **CNNs, homemade residual networks, and a fine-tuned ResNet152**. This notebook is extensively commentated, and documents all of the tested configurations and their scores during the competition. This notebook uses PyTorch as its ML framework.
  
 ### `Image_Enhancement_Filtering.ipynb`
 
